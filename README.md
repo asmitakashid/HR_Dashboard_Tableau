@@ -9,13 +9,6 @@ A professional and interactive **HR Analytics Dashboard** built in **Tableau** t
 
 - [Project Overview](#project-overview)
 - [Folder Structure](#-folder-structure)
-- [Features](#-features)
-- [Tools & Technologies](#-tools--technologies)
-- [How to Open the Dashboard](#-how-to-open-the-dashboard)
-- [Dashboard Preview](#-dashboard-preview)
-- [Future Enhancements](#-future-enhancements)
-- [Contributing](#-contributing)
-- [Contact](#-contact)
 
 ---
 
@@ -45,8 +38,6 @@ HR_Dashboard_Tableau/
 │
 ├── SCREENSHOT/               # Dashboard screenshots for README
 │   ├── Overview.png
-│   ├── Demographics.png
-│   ├── Salary_Analysis.png
-│   ├── Department_Insights.png
+│   
 │
 └── README.md                 # Project documentation
